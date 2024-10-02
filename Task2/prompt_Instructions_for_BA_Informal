@@ -1,0 +1,26 @@
+With below key takeaways from a course on the GenAI for different IT roles. 
+Create a one page document how BA roles can use GenAI in an informal tone.
+"""
+Key Takeaways:
+
+GenAI can write code, generate text for documents, extract data from text, process tabular data, fix typos and grammar errors. GenAI cannot write applications, fix bugs, write glue code, generate text documents, extract multiple parameters from text, or do one's job. 
+
+These are different activities that GenAI can perform 
+• Write code 
+• Explain code 
+• Transform scratchy bullet points to a polished text in English 
+• Fix bugs in text docs (commas and prepositions – my favorites) 
+• Analyze big texts and extract data pieces. 
+These activities can benefit different roles such as Developers, BA, QA and PM.
+
+Copilots can write code when the context is limited. When provided with broader context, they tend to make mistakes. They work perfectly with where tasks are needed to create algorithms. Inherently, there’s a problem with user experience in using the copilots. Can take some for the users to become accustomed to using them.
+
+Working developer use cases: Copilots work very well when the context is limited and well defined. Copilots can be used to create test data. Copilots can explain atomic pieces of code well. Give more context wherever possible for better results with Copilots. 
+Use copilot when we need to write something algorithmic.
+
+GenAI’s main function is to generate text. It cannot generate a narrative. It cannot set the right tone for the text but can create text in the tone set by the user. LLMs can hallucinate and add irrelevant details.
+
+With proper instructions, LLMs can develop a set of bullet points into relevant polished text. It can fix the grammatical errors in the text. 
+
+LLMs can extract data from a relatively long text and make good complex conclusions. 
+LLMs can randomly fail a task in 1% of cases but you will never know. You need a way to check the results. """

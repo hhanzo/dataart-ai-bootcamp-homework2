@@ -1,0 +1,125 @@
+Summary:
+Oyvind, a young boy from a poor family, meets Marit, a girl from a more affluent family, and becomes infatuated with her. 
+He struggles with feelings of inadequacy and poverty, especially when he sees Marit dancing with another man at a party. 
+Oyvind's encounter with Marit sets off a chain of events that makes him realize his own ambitions and desires. 
+He begins to work hard, dedicating himself to his studies, and dreams of one day becoming something more. 
+Oyvind's journey is intertwined with the story of Baard, the school-master, who has a complex and tragic past involving his brother Anders.
+Oyvind's story is a coming-of-age tale of self-discovery, love, and ambition.
+
+Oyvind's encounter with Marit at the party marks a turning point in his life, making him realize his own feelings of inadequacy and poverty. 
+He becomes determined to work hard and make something of himself, and his dedication to his studies leads him to succeed in his exams.
+However, Oyvind's journey is not without its challenges, and he must navigate his own emotions and relationships.
+
+The story explores themes of love, ambition, and class differences, raising questions about social mobility and the impact of these differences 
+on individuals and their relationships. Oyvind's story is a poignant reminder that our experiences and relationships shape us, and that true growth 
+and self-discovery require hard work and dedication.
+
+Answers to questions:
+
+1. Oyvind met Marit for the first time on the cliff when she was playing with his goat.
+
+2. Yes, Marit sang a song while taking the goat away from Oyvind. The song was:
+
+     "Come, boy's pretty goatie,
+          Come, calf, my delight,
+      Come here, mewing pussie,
+          In shoes snowy white,
+      Yellow ducks, from your shelter,
+      Come forth, helter-skelter.
+      Come, doves, ever beaming,
+      With soft feathers gleaming!
+          The grass is still wet,
+          But sun 't will soon get;
+      Now call, though early 't is in the summer,
+      And autumn will be the new-comer."
+
+3. JSON with key characters and their relationship to the main character:
+
+```json
+{
+  "Characters": {
+    "Oyvind": {
+      "Relationship": "Main Character"
+    },
+    "Marit": {
+      "Relationship": "Friend/Love Interest"
+    },
+    "Baard": {
+      "Relationship": "School-master/Caregiver"
+    },
+    "Oyvind's Mother": {
+      "Relationship": "Mother/Caregiver"
+    },
+    "Oyvind's Father": {
+      "Relationship": "Father/Provider"
+    },
+    "Anders": {
+      "Relationship": "Baard's Brother"
+    },
+    "Jon Hatlen": {
+      "Relationship": "Marit's Suitor/Rival"
+    }
+  }
+}
+```
+
+4. JSON of the situations and emotional states the main character goes through:
+
+```json
+{
+  "Situations and Emotional States": {
+    "Loss of Goat": {
+      "Emotion": "Sadness/Longing"
+    },
+    "Unrequited Love for Marit": {
+      "Emotion": "Sadness/Jealousy"
+    },
+    "Poverty and Class Difference": {
+      "Emotion": "Insecurity/Inferiority"
+    },
+    "Struggles in School": {
+      "Emotion": "Anxiety/Frustration"
+    },
+    "Sense of Ambition and Determination": {
+      "Emotion": "Hope/Motivation"
+    }
+  }
+}
+```
+
+5. Marit offered Oyvind a twisted bun in exchange for the goat.
+
+6. The first thing Oyvind learned at school was the song about a dance, which was recited to him by Marit:
+
+     "Dance!" cried the fiddle;
+      Its strings all were quaking,
+      The lensmand's son making
+      Spring up and say "Ho!"
+     "Stay!" called out Ola,
+      And tripped him up lightly;
+      The girls laughed out brightly,
+      The lensmand lay low.
+     "Hop!" said then Erik,
+      His heel upward flinging;
+      The beams fell to ringing,
+      The walls gave a shriek.
+     "Stop!" shouted Elling,
+      His collar then grasping,
+      And held him up, gasping:
+     "Why, you're far too weak!"
+     "Hey!" spoke up Rasmus,
+      Fair Randi then seizing;
+     "Come, give without teasing
+      That kiss. Oh! you know!"
+     "Nay!" answered Randi,
+      And boxing him smartly,
+      Dashed off, crying tartly:
+     "Take that now and go!"
+
+7. The two sleds owned by Oyvind are "Fleet-foot" and "Idler".
+
+8. The auction of the gold watch caused the rift between Baard and Anders.
+
+9. Oyvind stood number 9 or 10 in the test, but the school-master did not specify which.
+
+10. Oyvind first recognized the class difference between Marit and himself at the party at Marit's grandparents' house, where he felt inferior due to his plain clothes and his status as a houseman's son.
